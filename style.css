@@ -114,33 +114,33 @@ a:hover{
 /* Fixed sidebar layout */
 
 #content{
-  margin-left: 120px;
+  margin-left: 500px;
 }
 
 #sidebar {
-  background-color: #384047;
+  background-color: #375d30;
   position: fixed;
   left: 0px;
   top: 0px;
   bottom: 0px;
-  width: 120px;
+  width: 90px;
   text-align: center;
 }
 
 #sidebar ul {
   list-style: none;
-  padding-left: 0px;
+  padding-left: 10px;
 }
 
 #sidebar li {
-  margin-top:50px;
+  margin-top:90px;
   margin-bottom: 50px;
 }
 
 #sidebar a {
   text-decoration: none;
   font-size: 25px;
-  color:#788188;
+  color:#1c212b;
 }
 
 #sidebar a:hover {
