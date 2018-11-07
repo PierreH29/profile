@@ -50,8 +50,8 @@ a:hover{
 /* First simple components */
 
 .container-fluid{
-  width: 90%;   /* This sets the width */
-  margin: 30px auto; /* This automatically sets left/right margins */
+  width: 50%;   /* This sets the width */
+  margin: 10px auto; /* This automatically sets left/right margins */
 }
 
 .card{
